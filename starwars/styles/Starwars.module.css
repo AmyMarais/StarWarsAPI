@@ -1,0 +1,11 @@
+/* Basic styling */
+.single {
+    padding: 2px 16px;
+    background: palegoldenrod;
+    display: block;
+    margin: 20px 10px;
+    border-left: 1rem solid palegoldenrod;
+  }
+  .single:hover {
+    border-left: 1rem solid yellowgreen;
+  }
