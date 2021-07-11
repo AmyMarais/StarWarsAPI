@@ -1,5 +1,5 @@
 # StarWarsAPI
-A dynamic website that was created using data retrieved from this starwarsAPI (https://swapi.dev/api/films/)
+A dynamic website I created using Next.js and data retrieved from this starwarsAPI (https://swapi.dev/api/films/)
 
 ## Screenshots of the working application
 The Home page
